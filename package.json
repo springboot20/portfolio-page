@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "npx tailwindcss build -i src/tailwind.css -o public/styles/styles.css --verbose --watch",
+    "minify": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^5.0.2"
+  },
+  "dependencies": {
+    "scrollreveal": "^4.0.9",
+    "webkul-micron": "^1.1.6"
+  }
+}

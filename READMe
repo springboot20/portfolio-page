@@ -1,0 +1,200 @@
+
+    <section class="about-dev" id="about">
+      <div class="about-dev-container container">
+        <div class="about-dev-image">
+          <img src="./assets/img-03.png" alt="" />
+        </div>
+        <div class="about-dev-infos">
+          <div class="details">
+            <h4 class="about-dev-title">Discover</h4>
+            <h3 class="about-title">About Me</h3>
+            <p class="about-dev-text">
+              My name is Yunus Abbas, I'm a freelance Full Stack Developer based
+              in Nigeria, Oyo State, and I'm very passionate and dedicated to my
+              work. With 3 years experience as an intermidiete Full Stack
+              Developer, I have acquried the skills neccessary to build great
+              and premium website.
+            </p>
+          </div>
+          <div class="about-dev-bio">
+            <ul class="sub-01">
+              <li>Name : Yunus Abbas</li>
+              <li>Phone: +2347086807968</li>
+              <li>Experience : 3 years</li>
+              <li>Github : springboot20</li>
+            </ul>
+            <ul class="sub-02">
+              <li>Age : 18</li>
+              <li>Address: Ogbomoso Oyo State, Nigeria</li>
+              <li>Freelance : pending....</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="left">
+        <span class="label">01</span>
+        <span class="line"></span>
+      </div>
+      <div class="shape-02"></div>
+    </section>
+
+    <section class="service-section" id="service">
+      <div class="service-container container">
+        <h4 class="service-dev-title">What I do</h4>
+        <h3 class="service-title">My Service</h3>
+        <div class="service-grid">
+          <div class="card">
+            <span class="bx bxl-github"></span>
+            <div class="card-body">
+              <h3 class="card-title">Web Development</h3>
+              <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+                dolores assumenda nobis magnam praesentium sit.
+              </p>
+            </div>
+            <span class="bx bx-right-arrow-alt"></span>
+          </div>
+          <div class="card">
+            <span class="bx bxs-component"></span>
+            <div class="card-body">
+              <h3 class="card-title">Web Design</h3>
+              <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+                dolores assumenda nobis magnam praesentium sit.
+              </p>
+            </div>
+            <span class="bx bx-right-arrow-alt"></span>
+          </div>
+          <div class="card">
+            <span class="bx bxs-palette"></span>
+            <div class="card-body">
+              <h3 class="card-title">User Interface</h3>
+              <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+                dolores assumenda nobis magnam praesentium sit.
+              </p>
+            </div>
+            <span class="bx bx-right-arrow-alt"></span>
+          </div>
+          <div class="card">
+            <span class="bx bxs-palette"></span>
+            <div class="card-body">
+              <h3 class="card-title">Creative Design</h3>
+              <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+                dolores assumenda nobis magnam praesentium sit.
+              </p>
+            </div>
+            <span class="bx bx-right-arrow-alt"></span>
+          </div>
+          <div class="card">
+            <span class="bx bxs-component"></span>
+            <div class="card-body">
+              <h3 class="card-title">Web Design</h3>
+              <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+                dolores assumenda nobis magnam praesentium sit.
+              </p>
+            </div>
+            <span class="bx bx-right-arrow-alt"></span>
+          </div>
+          <div class="card">
+            <span class="bx bxs-palette"></span>
+            <div class="card-body">
+              <h3 class="card-title">Creative Design</h3>
+              <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
+                dolores assumenda nobis magnam praesentium sit.
+              </p>
+            </div>
+            <span class="bx bx-right-arrow-alt"></span>
+          </div>
+        </div>
+      </div>
+      <div class="left">
+        <span class="label">02</span>
+        <span class="line"></span>
+      </div>
+      <div class="shape-02"></div>
+    </section>
+
+    <section class="contact-section" id="contact">
+      <div class="contact-container container">
+        <h2 class="contact-title">Contact Me</h2>
+        <div class="contact-means">
+          <div class="contact-details">
+            <div class="home-contact contact">
+              <div class="icon"><span class="bx bx-home-alt"></span></div>
+              <div class="contact-label">
+                <span class="label-text">opeyemiakanbi328@gmail.com</span>
+                <span class="label-text">Your email name@gmail.com</span>
+              </div>
+            </div>
+            <div class="phone-contact contact">
+              <div class="icon"><span class="bx bx-phone"></span></div>
+              <div class="contact-label">
+                <span class="label-text">07086807968</span>
+                <span class="label-text">09033937732</span>
+              </div>
+            </div>
+            <div class="location-contact contact">
+              <div class="icon">
+                <span class="bx bx-current-location"></span>
+              </div>
+              <div class="contact-label">
+                <span class="label-text">Alfa tedo oke-owode, Ogbomoso</span>
+                <span class="label-text">Oyo state, Nigeria</span>
+              </div>
+            </div>
+          </div>
+          <div class="form">
+            <form onsubmit="return false" id="form">
+              <div class="form-control">
+                <input type="text" placeholder="Your name" />
+                <input type="email" placeholder="Your email" />
+              </div>
+              <div class="textarea">
+                <textarea
+                  id="message"
+                  cols="50"
+                  rows="10"
+                  placeholder="Your message"
+                ></textarea>
+              </div>
+              <button type="submit" class="contact-btn">Contact Me</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="left">
+        <span class="label">03</span>
+        <span class="line"></span>
+      </div>
+    </section>
+
+    <footer class="footer-section">
+      <div class="footer-container">
+        <div class="footer-copyRight">
+          <p class="footer-text">
+            One page pesronal portfolio by yunus abbas &copy; 2023
+          </p>
+        </div>
+        <div class="footer-social-links">
+          <a href="#" class="footer-link">
+            <span class="bx bxl-facebook"></span>
+          </a>
+          <a href="#" class="footer-link">
+            <span class="bx bxl-twitter"></span>
+          </a>
+          <a href="#" class="footer-link">
+            <span class="bx bxl-instagram"></span>
+          </a>
+          <a href="#" class="footer-link">
+            <span class="bx bxl-github"></span>
+          </a>
+          <a href="#" class="footer-link">
+            <span class="bx bxl-pinterest"></span>
+          </a>
+        </div>
+      </div>
+    </footer>
